@@ -12,7 +12,13 @@
 Most Magenta usage lives in research notebooks or experimental plugins. IUS DX-1 is the first production-grade environment where these models become part of a real-world rhythm-first workflow — from live groove capture to final arrangement — without leaving the instrument.
 
 ### Screenshots & demo
-[Attach the two screenshots you already shared + your new video clip]
+
+<div align="center">
+  
+![Private Modes](https://github.com/IUSmusic/IUS-DX-1/blob/main/private-models-lab.jpg)
+
+![Home](https://github.com/IUSmusic/IUS-DX-1/blob/main/home.jpg)
+
 
 ### Try it
 - 24-hour full-function trials (Windows & Linux): https://iusmusic.com/IUSDX1.html
