@@ -26,6 +26,6 @@ Built with respect for the original Magenta project and its open-source models.
 
 ---
 
-**Magenta team** — we would value any feedback from the organisation.  
+**Magenta team** we would value any feedback from the organisation.  
 @magenta  
 Relevant repos: https://github.com/magenta/magenta-js | https://github.com/magenta/magenta-demos
